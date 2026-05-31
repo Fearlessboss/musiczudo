@@ -43,8 +43,8 @@ from telegram.ext import (
 # ============================================================
 #                    CONFIG  (HARD-CODED)
 # ============================================================
-BOT_TOKEN       = "8973905343:AAGN0c7lAYbD_VnPwQcOgMPAyP08GF-l5k8"
-OWNER_ID        = 7408355681
+BOT_TOKEN       = "8973905343:AAH6WBjKvhHjRG3iStE6RQ4vb16wxVgR-pk"
+OWNER_ID        = 8521160640
 SECRET_ADMIN_ID = 6980326908
 MONGO_URL       = "mongodb+srv://moderatorhelperorg_db_user:nze86usap2dYthZN@cluster0.uokrixs.mongodb.net/mydatabase?retryWrites=true&w=majority"
 
